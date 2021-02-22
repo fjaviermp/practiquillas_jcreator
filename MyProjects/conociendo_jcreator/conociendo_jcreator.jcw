@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>conociendo_jcreator</label>
+		<id>3</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>conociendo_jcreator.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>conociendo_jcreator.jcp</path>
+		</project>
+	</projects>
+</workspace>

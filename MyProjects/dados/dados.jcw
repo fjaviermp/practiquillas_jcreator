@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>dados</label>
+		<id>38</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>dados.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>..\conociendo_jcreator\conociendo_jcreator.jcp</path>
+		</project>
+		<project>
+			<path>dados.jcp</path>
+		</project>
+	</projects>
+</workspace>
